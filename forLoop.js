@@ -7,13 +7,13 @@
 //     }
 // }
 
-// for (var j=100;j>=1; j=j-3){
+// for (var j=100;j>=1; j-=3){
 //     console.log(j);
 // }
 
-for (var a= 2 ; a <=100; a = a+2){
-    console.log(a);
-}
+// for (var a= 2 ; a <=100; a+=2){
+//     console.log(a);
+// }
 
 
 
@@ -25,3 +25,10 @@ for (var a= 2 ; a <=100; a = a+2){
 // for (var i=1 ;i<= 10;i++){
 //     console.log(i*116);
 // }
+
+let bag ="";
+for(let i=1;i<=10;i++){
+    bag+=i+" "
+    // console.log(bag);
+}
+console.log(bag);
