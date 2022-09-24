@@ -19,6 +19,10 @@ float new_number = 10.35f;
   double Aew_number = 10.36;
   System.out.println(Aew_number);
 
+//   int x=10;
+//   System.out.println(x+1);
+//   System.out.println(x);
+
 
     }
 }
